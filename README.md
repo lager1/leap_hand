@@ -3,7 +3,7 @@ Simple program to move robotic hand Lynxmotion AL5D with human hands through Lea
 
 ###instalation
 C++11 compatible compiler (g++ 4.9.2 or newer) is needed to compile this project.
-compile by ussing:
+compile by issuing
 
     make
 
