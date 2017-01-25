@@ -13,3 +13,7 @@ For correct usage, Leap motioon sensor and robotic hand should be connected to y
 After launching the robotic hand is moved to central position and the sensor detects hand motion
 until the enter key is pressed.
 Program has built-in help which can be displayed by -h option.
+
+#live demo
+![demo](https://github.com/lager1/leap_hand/blob/master/demo.gif "demo")
+
