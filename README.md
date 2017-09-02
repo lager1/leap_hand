@@ -20,4 +20,4 @@ Program has built-in help which can be displayed by -h option.
 ![demo](https://github.com/lager1/leap_hand/blob/master/demo.gif "demo")
 
 # demo on youtube
-![demo](https://youtu.be/rlCg_acRVgg)
+[demo](https://youtu.be/rlCg_acRVgg)
